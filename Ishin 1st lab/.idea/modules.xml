@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ishin 1st lab.iml" filepath="$PROJECT_DIR$/.idea/modules/Ishin 1st lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ishin_1st_lab_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ishin_1st_lab_main.iml" group="Ishin 1st lab" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ishin_1st_lab_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ishin_1st_lab_test.iml" group="Ishin 1st lab" />
+    </modules>
+  </component>
+</project>
